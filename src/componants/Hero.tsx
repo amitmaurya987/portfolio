@@ -65,7 +65,7 @@ const Hero = () => {
               Contact Me
             </a>
             <a
-              href="#"
+              href="/Amit_Kumar_Frontend_Developer.pdf"
               download
               className="flex items-center gap-2 px-6 py-3 border-2 border-blue-600 text-blue-600 dark:text-blue-400 rounded-full hover:bg-blue-600 hover:text-white transition-colors"
             >
@@ -106,7 +106,7 @@ const Hero = () => {
               <Linkedin size={24} />
             </a>
             <a
-              href="https://github.com/amitkumar"
+              href="https://github.com/amitmaurya987/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-gray-200 dark:bg-gray-800 rounded-full hover:bg-blue-600 hover:text-white transition-colors"
