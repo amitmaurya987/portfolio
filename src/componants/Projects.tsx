@@ -39,7 +39,7 @@ const Projects = () => {
       title: 'TripScroll – Travel Booking Platform',
       description:
         'Built a comprehensive B2B/B2C travel booking platform supporting Hotels, Flights, Bus bookings, and Travel Insurance with real-time API integration.',
-      tech: ['Next.js', 'TypeScript', 'Tailwind CSS', 'REST API'],
+      tech: ['Next.js', 'TypeScript', 'SCSS', 'REST API'],
       contributions: [
         'Developed responsive booking interface',
         'Integrated real-time availability APIs',

@@ -88,7 +88,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 pt-8 text-center">
           <p className="text-gray-400 flex items-center justify-center gap-2">
-            © {currentYear} Amit Kumar. Made with <Heart size={16} className="text-red-500" /> using Next.js & Tailwind CSS
+            © {currentYear} Amit Kumar.
           </p>
         </div>
       </div>
